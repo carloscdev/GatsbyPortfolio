@@ -1,0 +1,12 @@
+{
+    "slug": "demo",
+    "title": "Formación Demo",
+    "description": "Prueba de Demo Page Gatsby",
+    "items": [
+        {
+            "name": "Demo",
+            "degree": "Alumno Avanzado",
+            "score": "80"
+        }
+    ]
+}

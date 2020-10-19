@@ -1,21 +1,21 @@
 {
-    "slug": "presencial",
+    "slug": "online",
     "title": "Formación Online",
-    "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+    "description": "Formación Online, Plataformas virtuales",
     "items": [
         {
             "name": "Platzi",
-            "url": "platzi.com"
+            "url": "https://platzi.com"
 
         },
         {
             "name": "Udemy",
-            "url": "udemy.com"
+            "url": "https://udemy.com"
 
         },
         {
             "name": "Netzun",
-            "url": "netzun.com"
+            "url": "https://netzun.com"
 
         }
     ]
