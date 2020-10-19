@@ -1,0 +1,12 @@
+{
+    "slug": "others",
+    "title": "Formación Académica",
+    "description": "Capoeira, Alumno avanzado CDO",
+    "items": [
+        {
+            "name": "Cordao de Ouro",
+            "degree": "Alumno Avanzado",
+            "score": "80"
+        }
+    ]
+}

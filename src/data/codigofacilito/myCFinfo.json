@@ -1,0 +1,12 @@
+{
+    "data":
+    {
+        "email":"ccordova.zosma@gmail.com",
+        "username":"carloscdev",
+        "certificates":[],
+        "articles":[],
+        "courses":[{"title":"Taller de Apps Universales con Nuxt y Vue","progress":"0.0","url":"http://codigofacilito.com/courses/taller-nuxt-vue"},
+            {"title":"Crea un sitio personal con Gatsby","progress":"32.0","url":"http://codigofacilito.com/courses/sitio-persional-gatsby"},
+            {"title":"Curso de Fundamentos de React","progress":"16.0","url":"http://codigofacilito.com/courses/react-intro-gratis"}],
+            "finished_courses":[]},"errors":[]
+}

@@ -1,0 +1,17 @@
+{
+    "slug": "presencial",
+    "title": "Formación Académica",
+    "description": "Formación académica, grados de estudio e instituciones a las que asistí",
+    "items": [
+        {
+            "name": "Universidad Continental",
+            "degree": "Ing. Sistemas e Informática",
+            "score": "95"
+        },
+        {
+            "name": "Universidad Tecnológica de Huejotzingo",
+            "degree": "Ing. Tecnologías de la Información",
+            "score": "100"
+        }
+    ]
+}
